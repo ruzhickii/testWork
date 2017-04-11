@@ -1,4 +1,65 @@
 .content{
   display: block;
-  background: #f2f2f2;
+  padding-top: 20px;
+
+  .mainTitleTextBlock{
+  margin: 30px 0;
+
+    .titleTextBlock{
+      color: #282828;
+      font-weight: bold;
+      font-family: Oswald;
+    }
+  }
+
+  .textBlock{
+    color: #000;
+  }
+
+  .mainListTextBlock{
+    margin: 35px 0;
+
+    .liText{
+      color: #000;
+    }
+
+    ul{
+      padding: 0 14px;
+    }
+
+    .titleListTextBlock{
+      font-weight: bold;
+    }
+  }
+
+  .mainTitleCardsBlock{
+    margin: 20px 0;
+
+    .titleCardBlock{
+      color: #eb3c00;
+      font-weight: bold;
+      font-family: Oswald;
+    }
+  }
+
+  .upMainBlock{
+    text-align: right;
+    margin-top: 100px;
+    font-family: Oswald;
+
+    a{
+      text-decoration: none;
+      color: #9b9b9b;
+
+      i{
+        margin-right: 5px;
+      }
+      span{
+        margin-right: 30px;
+      }
+    }
+  }
+  @media screen and (max-width: 768px) {
+
+  }
 }

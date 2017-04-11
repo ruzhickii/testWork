@@ -1,0 +1,23 @@
+.logoMainBlock{
+  margin-top: 45px;
+  margin-bottom: 10px;
+
+
+  .logoTitle{
+    font-size: 35px;
+    color: #eb3c00;
+    font-family: Oswald;
+    font-weight: bold;
+  }
+
+  .logoText{
+    color: #c2c2c2;
+    margin-left: 5px;
+    font-style: italic;
+  }
+
+  @media screen and (max-width: 768px) {
+    text-align: center;
+  }
+
+}

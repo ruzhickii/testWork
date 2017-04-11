@@ -1,0 +1,45 @@
+  [
+    {
+      "img": {
+        "alt": "some title",
+        "url": "../../../static/images/img.jpg"
+      },
+      "name":"Being in nature reduces stress,makes you more creative"
+    },
+    {
+      "img": {
+        "alt": "some title",
+        "url": "../../../static/images/img.jpg"
+      },
+      "name":"Usability Testing for Mobile Is Easy"
+    },
+    {
+      "img": {
+        "alt": "some title",
+        "url": "../../static/images/img.jpg"
+      },
+      "name":"Infinite Scrolling Is Not for Every Website"
+    },
+    {
+      "img": {
+        "alt": "some title",
+        "url": "../../static/images/img.jpg"
+      },
+      "name":"Ecommerce UX:3 Design Trends to Follow and 3 to Avoid"
+    },
+    {
+      "img": {
+        "alt": "some title",
+        "url": "../../static/images/img.jpg"
+      },
+      "name":"University Websites: Top 10 Design Guidelines"
+    },
+    {
+      "img": {
+        "alt": "some title",
+        "url": "../../static/images/img.jpg"
+      },
+      "name":"University Websites: Top 10 Design Guidelines"
+    }
+
+]

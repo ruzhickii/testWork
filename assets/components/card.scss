@@ -1,0 +1,17 @@
+.mainCardBlock{
+  max-width: 100%;
+  margin-bottom: 20px;
+
+  .cardImgBlock{
+    margin-bottom: 10px;
+
+    img{
+      width: 100%;
+    }
+  }
+
+  .cardContent {
+    color: #282828;
+    font-family: Oswald;
+  }
+}
